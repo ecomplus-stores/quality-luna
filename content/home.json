@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2021-01-06T01:13:19.083Z",
+          "end": "2021-01-18T02:59:00.000Z",
+          "link": "https://www.qualityluna.com.br/luna-system",
+          "img": "/img/uploads/banner-para-home.png",
+          "mobile_img": "/img/uploads/banner-mobile-1080x1080.png"
+        },
+        {
           "start": "2020-10-26T19:21:18.244Z",
           "end": "2021-12-22T17:18:00.000Z",
           "img": "/img/uploads/frete-gratis-home-desknew.jpg",
