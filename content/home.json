@@ -53,6 +53,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5eb452325ac4060578b88980:collections:Cronograma Capilar:/cronograma-capilar",
+      "title": "Cronograma Capilar",
+      "sort": "sales"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
