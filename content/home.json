@@ -39,19 +39,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-3.webp",
-          "link": "https://www.qualityluna.com.br/quality-cauter-cauterizacao-capilar-para-profissionais",
-          "alt": "Luna Cauter"
+          "img": "/img/uploads/lisos.png",
+          "link": "https://www.qualityluna.com.br/search?term=liso"
         },
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-4.webp",
-          "link": "https://www.qualityluna.com.br/quality-cosmetico-plus",
-          "alt": "Plus"
+          "img": "/img/uploads/crespos.png",
+          "link": "https://www.qualityluna.com.br/cabelos-crepos-ou-rebeldes?"
         },
         {
-          "img": "/img/uploads/quality-show-catalogo-profissional-2.webp",
-          "link": "https://www.qualityluna.com.br/quality-cosmeticos-doble-hair",
-          "alt": "Progressiva"
+          "img": "/img/uploads/cacheados.png",
+          "link": "https://www.qualityluna.com.br/search?term=cachos"
         }
       ]
     },
