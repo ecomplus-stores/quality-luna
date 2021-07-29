@@ -39,15 +39,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/lisos.png",
+          "img": "/img/uploads/lisos-1-.png",
           "link": "https://www.qualityluna.com.br/search?term=liso"
         },
         {
-          "img": "/img/uploads/crespos.png",
+          "img": "/img/uploads/crespos-1-.png",
           "link": "https://www.qualityluna.com.br/cabelos-crepos-ou-rebeldes?"
         },
         {
-          "img": "/img/uploads/cacheados.png",
+          "img": "/img/uploads/ondulados-1-.png",
           "link": "https://www.qualityluna.com.br/search?term=cachos"
         }
       ]
@@ -65,7 +65,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/clube-de-desconto-1-.png",
+          "img": "/img/uploads/clube-de-desconto-2-.png",
           "link": "https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx"
         }
       ]
