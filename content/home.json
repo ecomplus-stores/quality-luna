@@ -39,16 +39,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/lisos-1-.png",
-          "link": "https://www.qualityluna.com.br/search?term=liso"
+          "img": "/img/uploads/ondulados-1-.png",
+          "link": "https://www.qualityluna.com.br/search?term=cachos"
         },
         {
           "img": "/img/uploads/crespos-1-.png",
           "link": "https://www.qualityluna.com.br/cabelos-crepos-ou-rebeldes?"
         },
         {
-          "img": "/img/uploads/ondulados-1-.png",
-          "link": "https://www.qualityluna.com.br/search?term=cachos"
+          "img": "/img/uploads/lisos-1-.png",
+          "link": "https://www.qualityluna.com.br/search?term=liso"
         }
       ]
     },
