@@ -53,6 +53,16 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cronograma_desktop.png",
+          "link": "https://www.qualityluna.com.br/pages/analise-capilar",
+          "mobile_img": "/img/uploads/clube-de-desconto_mobile.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
