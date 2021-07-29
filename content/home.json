@@ -39,8 +39,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ondulados-1-.png",
-          "link": "https://www.qualityluna.com.br/search?term=cachos"
+          "img": "/img/uploads/cacheados-2-.png",
+          "link": "https://www.qualityluna.com.br/cabelos-cacheados-ou-ondulados"
         },
         {
           "img": "/img/uploads/crespos-1-.png",
@@ -49,6 +49,10 @@
         {
           "img": "/img/uploads/lisos-1-.png",
           "link": "https://www.qualityluna.com.br/search?term=liso"
+        },
+        {
+          "img": "/img/uploads/grisalhos.png",
+          "link": "https://www.qualityluna.com.br/cabelos-brancos-ou-grisalhos"
         }
       ]
     },
