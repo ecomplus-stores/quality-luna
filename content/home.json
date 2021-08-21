@@ -70,12 +70,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/clube-de-desconto-2-.png",
-          "link": "https://chat.whatsapp.com/D24RvRwKjKf3808MaLjfZx"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "custom-html",
