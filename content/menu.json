@@ -1,13 +1,14 @@
 {
   "sort_categories": [
-    "kits-prontos-quality-luna",
-    "produtos-para-cabelo-luna",
-    "alisamento",
-    "hidratacao-luna-system",
-    "shampoo",
-    "tratamento",
-    "cronograma"
+    "cabelos-quimicamente-tratados-quality-cosmeticos",
+    "cabelos-com-queda-ou-ralos",
+    "cabelos-cacheados-ou-ondulados",
+    "cabelos-brancos-ou-grisalhos",
+    "cabelos-coloridos-ou-com-mechas",
+    "cabelos-oleosos-ou-mistos",
+    "cabelos-com-caspa"
   ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
