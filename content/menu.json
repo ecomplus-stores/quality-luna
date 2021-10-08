@@ -1,11 +1,14 @@
 {
   "sort_categories": [
+    "cauterizacao-capilar",
     "cabelos-quimicamente-tratados-quality-cosmeticos",
-    "cabelos-com-queda-ou-ralos",
     "cabelos-cacheados-ou-ondulados",
     "cabelos-brancos-ou-grisalhos",
     "cabelos-coloridos-ou-com-mechas",
     "cabelos-oleosos-ou-mistos",
+    "cabelos-com-queda-ou-ralos",
+    "cabelos-normais-e-todos-os-tipos",
+    "cabelos-ressecados-ou-quebradicos",
     "cabelos-com-caspa"
   ],
   "phone_wpp": true,
