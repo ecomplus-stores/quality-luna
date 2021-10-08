@@ -1,15 +1,19 @@
 {
   "sort_categories": [
-    "cauterizacao-capilar",
+    "shampoo",
     "cabelos-quimicamente-tratados-quality-cosmeticos",
-    "cabelos-cacheados-ou-ondulados",
-    "cabelos-brancos-ou-grisalhos",
     "cabelos-coloridos-ou-com-mechas",
-    "cabelos-oleosos-ou-mistos",
-    "cabelos-com-queda-ou-ralos",
+    "cabelos-cacheados-ou-ondulados",
     "cabelos-normais-e-todos-os-tipos",
+    "cabelos-brancos-ou-grisalhos",
+    "cabelos-oleosos-ou-mistos",
+    "cabelos-com-caspa",
+    "cabelos-com-queda-ou-ralos",
     "cabelos-ressecados-ou-quebradicos",
-    "cabelos-com-caspa"
+    "hidratacao-capilar",
+    "reconstrucao-capilar",
+    "nutricao-capilar",
+    "matizador"
   ],
   "phone_wpp": true,
   "socials": true,
