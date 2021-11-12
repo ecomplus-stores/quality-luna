@@ -12,6 +12,13 @@
           "img": "/img/uploads/bn21-progressivas-desktop.png",
           "link": "https://www.qualityluna.com.br/alisamento",
           "mobile_img": "/img/uploads/bn21-progressivas-feed-mobile.png"
+        },
+        {
+          "start": "2021-11-12T13:31:44.188Z",
+          "end": "2030-12-31T13:31:44.263Z",
+          "img": "/img/uploads/fg21-desktop.png",
+          "mobile_img": "/img/uploads/fg21-mobile.png",
+          "link": "https://www.qualityluna.com.br/search?term="
         }
       ]
     },
