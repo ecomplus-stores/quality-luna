@@ -1,11 +1,11 @@
 {
   "pkg": "@ecomplus/widget-compre-confie",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "disablePages": true,
   "options": {
-    "compreConfieStoreId": ""
+    "compreConfieStoreId": " Quality luna - Rua Treze de Maio, 17 - Centro - Vitória da Conquista/BA - 40.720.524/0001-71"
   },
   "stampsAppend": "src/append/stamps"
 }
