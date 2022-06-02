@@ -5,7 +5,14 @@
     {
       "type": "banner-slider",
       "autoplay": 0,
-      "slides": [],
+      "slides": [
+        {
+          "start": "2022-06-02T12:33:46.388Z",
+          "end": "2022-06-02T12:33:46.422Z",
+          "img": "/img/uploads/fg21-desktop.png",
+          "mobile_img": "/img/uploads/frete-gratis-home-mob.jpg"
+        }
+      ],
       "full_width": true
     },
     {
