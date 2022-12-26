@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 5000,
       "slides": [
         {
           "start": "2022-12-22T15:45:55.693Z",
@@ -19,6 +19,12 @@
           "img": "/img/uploads/progressiva-organica-novo.jpg",
           "link": "https://www.qualityluna.com.br/progressiva-organica--com-multiativos-1litro--luna-system",
           "mobile_img": "/img/uploads/progressiva-organica-feed-1-novo.jpg"
+        },
+        {
+          "start": "2022-12-27T03:00:42.921Z",
+          "end": "2023-01-02T03:00:42.966Z",
+          "img": "/img/uploads/copia-de-campanha-natal-desktop-1-.png",
+          "mobile_img": "/img/uploads/copia-de-campanha-natal-mobile-1-.png"
         }
       ],
       "full_width": true
