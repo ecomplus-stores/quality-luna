@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 7000,
       "slides": [
         {
           "start": "2022-12-27T14:21:19.666Z",
