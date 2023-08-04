@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete Grátis Bahia acima de R$ 200,00"
   },
   "installments": {
