@@ -9,6 +9,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/frete-desktop.png",
+          "mobile_img": "/img/uploads/mobile-frete.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/finalizadores-desktop.png",
           "link": "https://www.qualityluna.com.br/finalizadores",
           "mobile_img": "/img/uploads/finalizadores-mobile.png"
@@ -19,12 +25,6 @@
           "img": "/img/uploads/progressiva-organica-novo.jpg",
           "link": "https://www.qualityluna.com.br/progressiva-organica--com-multiativos-1litro--luna-system",
           "mobile_img": "/img/uploads/progressiva-organica-feed-1-novo.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/frete-desktop.png",
-          "mobile_img": "/img/uploads/mobile-frete.png"
         }
       ],
       "full_width": true
