@@ -7,10 +7,11 @@
       "autoplay": 10000,
       "slides": [
         {
-          "start": "",
+          "start": "2023-10-03T22:31:09.386Z",
           "end": "",
-          "img": "/img/uploads/frete-desktop.png",
-          "mobile_img": "/img/uploads/mobile-frete.png"
+          "img": "/img/uploads/frete-gratis-quality.png",
+          "link": "https://www.qualityluna.com.br/search?term=",
+          "mobile_img": "/img/uploads/frete-gratis-mobile-1-.png"
         },
         {
           "start": "",
