@@ -7,6 +7,13 @@
       "autoplay": 10000,
       "slides": [
         {
+          "start": "2023-10-05T01:14:10.529Z",
+          "end": "2023-10-16T03:00:00.000Z",
+          "img": "/img/uploads/quinzena-da-beleza-novo-desktop.png",
+          "link": "https://www.qualityluna.com.br/search?term=quinzena+da+beleza",
+          "mobile_img": "/img/uploads/quinzena-da-beleza-mobile.png"
+        },
+        {
           "start": "2023-10-03T22:31:09.386Z",
           "end": "",
           "img": "/img/uploads/frete-gratis-quality.png",
