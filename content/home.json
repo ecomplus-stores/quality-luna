@@ -7,6 +7,13 @@
       "autoplay": 10000,
       "slides": [
         {
+          "start": "2023-10-23T12:51:26.867Z",
+          "end": "2023-11-06T03:00:00.000Z",
+          "img": "/img/uploads/produto-autoestima-renovada-desktop.png",
+          "link": "https://www.qualityluna.com.br/search?term=autoestima",
+          "mobile_img": "/img/uploads/produto-sua-autoestima-renovada-mobile.png"
+        },
+        {
           "start": "2023-10-03T22:31:09.386Z",
           "end": "",
           "img": "/img/uploads/frete-gratis-quality.png",
