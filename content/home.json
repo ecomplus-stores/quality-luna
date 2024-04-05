@@ -7,6 +7,12 @@
       "autoplay": 10000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/oferta-ampola-desktop.png",
+          "mobile_img": "/img/uploads/oferta-ampola-mobile.png"
+        },
+        {
           "start": "2023-10-03T22:31:09.386Z",
           "end": "",
           "img": "/img/uploads/frete-gratis-quality.png",
@@ -19,12 +25,6 @@
           "img": "/img/uploads/finalizadores.png",
           "link": "https://www.qualityluna.com.br/finalizadores",
           "mobile_img": "/img/uploads/finalizadores-mobile.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/oferta-ampola-desktop.png",
-          "mobile_img": "/img/uploads/oferta-ampola-mobile.png"
         }
       ],
       "full_width": true
