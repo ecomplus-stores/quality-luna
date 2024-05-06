@@ -18,6 +18,14 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5eb5ad365ac4060578b9048c:collections:Os mais queridos:/os-mais-queridos",
+      "autoplay": 2000
     }
   ]
 }
