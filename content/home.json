@@ -26,6 +26,13 @@
           "img": "/img/uploads/frete-gratis-2024-desktop.png",
           "link": "https://www.qualityluna.com.br/search?term=",
           "mobile_img": "/img/uploads/frete-gratis-2024-mobile.png"
+        },
+        {
+          "start": "2024-06-13T17:31:43.214Z",
+          "end": "",
+          "img": "/img/uploads/quality-luna-2024-frete-fixo-desktop.png",
+          "mobile_img": "/img/uploads/quality-luna-2024-frete-fixo-mobile.png",
+          "link": "https://www.qualityluna.com.br/search?term="
         }
       ],
       "full_width": true
