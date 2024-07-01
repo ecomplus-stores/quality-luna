@@ -7,13 +7,6 @@
       "autoplay": 10000,
       "slides": [
         {
-          "start": "2024-05-15T01:07:37.660Z",
-          "end": "",
-          "img": "/img/uploads/quality-luna-2024-desktop.png",
-          "link": "https://www.qualityluna.com.br/search?term=semi+di+lino",
-          "mobile_img": "/img/uploads/quality-luna-2024-mobile-3-.png"
-        },
-        {
           "start": "2024-05-04T01:13:59.232Z",
           "end": "",
           "img": "/img/uploads/frete-gratis-2024-desktop.png",
@@ -26,6 +19,13 @@
           "img": "/img/uploads/quality-luna-2024-frete-fixo-desktop.png",
           "mobile_img": "/img/uploads/quality-luna-2024-frete-fixo-mobile.png",
           "link": "https://www.qualityluna.com.br/search?term="
+        },
+        {
+          "start": "2024-05-15T01:07:37.660Z",
+          "end": "",
+          "img": "/img/uploads/quality-luna-2024-desktop.png",
+          "link": "https://www.qualityluna.com.br/search?term=semi+di+lino",
+          "mobile_img": "/img/uploads/quality-luna-2024-mobile-3-.png"
         }
       ],
       "full_width": true
