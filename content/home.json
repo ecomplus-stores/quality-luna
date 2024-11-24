@@ -7,6 +7,12 @@
       "autoplay": 10000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-black-friday.png",
+          "mobile_img": "/img/uploads/mobile-black-friday.png"
+        },
+        {
           "start": "2024-05-04T01:13:59.232Z",
           "end": "",
           "img": "/img/uploads/frete-gratis-2024-desktop.png",
@@ -26,12 +32,6 @@
           "img": "/img/uploads/quality-luna-2024-desktop.png",
           "link": "https://www.qualityluna.com.br/search?term=semi+di+lino",
           "mobile_img": "/img/uploads/quality-luna-2024-mobile-3-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop-black-friday.png",
-          "mobile_img": "/img/uploads/mobile-black-friday.png"
         }
       ],
       "full_width": true
