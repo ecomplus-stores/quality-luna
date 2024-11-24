@@ -26,6 +26,12 @@
           "img": "/img/uploads/quality-luna-2024-desktop.png",
           "link": "https://www.qualityluna.com.br/search?term=semi+di+lino",
           "mobile_img": "/img/uploads/quality-luna-2024-mobile-3-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-black-friday.png",
+          "mobile_img": "/img/uploads/mobile-black-friday.png"
         }
       ],
       "full_width": true
