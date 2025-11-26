@@ -107,16 +107,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/progressivas.webp",
+          "img": "/img/uploads/1.png",
           "link": "https://www.qualityluna.com.br/alisamento"
         },
         {
-          "img": "/img/uploads/reparador-de-pontas.webp",
+          "img": "/img/uploads/2.png",
           "link": "https://www.qualityluna.com.br/search?term=reparador",
           "alt": ""
         },
         {
-          "img": "/img/uploads/cronograma-capilar.webp",
+          "img": "/img/uploads/3.png",
           "link": "https://www.qualityluna.com.br/search?term=cronograma",
           "alt": "Cronograma"
         }
