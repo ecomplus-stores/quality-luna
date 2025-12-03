@@ -7,11 +7,11 @@
       "autoplay": 10000,
       "slides": [
         {
-          "start": "2025-11-24T13:49:06.907Z",
-          "end": "2025-12-01T03:00:00.000Z",
-          "img": "/img/uploads/blackweek-25-desktop.png",
-          "link": "https://www.qualityluna.com.br/alisamento",
-          "mobile_img": "/img/uploads/blackweek-2025-mobile.png"
+          "start": "2025-12-03T00:58:32.066Z",
+          "end": "",
+          "img": "/img/uploads/brinde-para-voce-qualityluna-desktop.png",
+          "link": "https://www.qualityluna.com.br/search?term=",
+          "mobile_img": "/img/uploads/brinde-para-voce-qualityluna-mobile.png"
         },
         {
           "start": "2024-05-04T01:13:59.232Z",
@@ -26,13 +26,6 @@
           "img": "/img/uploads/frete-fixo-desktop-2025.png",
           "mobile_img": "/img/uploads/frete-fixo-mobile-2025.png",
           "link": "https://www.qualityluna.com.br/search?term="
-        },
-        {
-          "start": "2024-05-15T01:07:37.660Z",
-          "end": "",
-          "img": "/img/uploads/quality-luna-2024-desktop.png",
-          "link": "https://www.qualityluna.com.br/search?term=semi+di+lino",
-          "mobile_img": "/img/uploads/quality-luna-2024-mobile-3-.png"
         }
       ],
       "full_width": true
